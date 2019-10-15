@@ -16,5 +16,13 @@ dev_dependencies:
     sdk: flutter
 
 flutter:
+  assets:
+    - assets/bgd2.jpg
+    - assets/bgd1.jpg
+  fonts:
+    - family: SpartanMB
+      fonts:
+        - asset: assets/SpartanMB-Black.otf
+
 
   uses-material-design: true
